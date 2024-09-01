@@ -1,4 +1,6 @@
 FLOTSAM BY AMINA NUHU
+
+
 EXTENSION WITH ADDITIONAL REOURCES
 with extension and additional resources I would add more sound elements to the game; such as more sound effects to more assets and additional background music. I would also include way more levels on the game that increase in difficulty for more player progression and narrative development. I would also improve the graphics of the game is possible to make the game generally more cohesive. I would also add animation. For example in my cutscene I would animate the text to appear on the screen like a typewriter. I would also expand and develop the game's narrative by giving each level a different loaction, while still maintaining the underwater/ocean theme and aesthetic
 
